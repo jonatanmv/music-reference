@@ -1,0 +1,17 @@
+ARMONIA EN CAPAS
+Bases / Audios de acompañamiento
+www.pedrobellora.com.ar
+
+
+Estas son las bases para practicar todos los ejercicios del libro "Armonía en Capas". Verás que hay tres directorios; cada uno de ellos incluye el total de las bases, pero a distintas velocidades. Por lo tanto, el directorio "70bpm" contiene todas las bases a 70 tiempos por minuto ("bpm" significa, justamente, "beats per minute"). Recomiendo usar la velocidad en 90bpm.
+
+También encontrarás un archivo MIDI que incluye el bajo y la batería de las bases. Cargando este archivo desde cualquier programa que soporte MIDI, podés hacer todos los cambios que quieras (o podés ver en detalle alguna parte que te interese).
+
+Por último, tenés un archivo Cubase que es el original desde el cual armé las bases. Usé "Trilogy" para el bajo y "Battery" para la batería.
+
+Que lo disfrutes!
+
+
+Pedro Bellora
+pbellora@gmail.com
+www.pedrobellora.com.ar
